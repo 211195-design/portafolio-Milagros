@@ -1,7 +1,8 @@
 # Portafolio Personal
 
 ## Descripción
-Portafolio web personal desarrollado como proyecto académico para demostrar el uso de Git y GitHub.
+Portafolio web personal desarrollado como proyecto académico para demostrar
+el uso de Git y GitHub con flujo de trabajo basado en ramas.
 
 ## Tecnologías Utilizadas
 - HTML5
@@ -11,10 +12,12 @@ Portafolio web personal desarrollado como proyecto académico para demostrar el 
 - GitHub
 
 ## Estructura de Ramas
-- master
-- develop
-- feature/XX-add-header
-- feature/XX-add-inicio
+- master: estructura base del proyecto
+- develop: integración de funcionalidades
+- feature/MA-add-header
+- feature/MA-add-inicio
 
-## Instrucciones
-Clonar el repositorio y abrir index.html en el navegador.
+## Instrucciones de Uso
+1. Clonar el repositorio:
+   git clone https://github.com/211195-design/portafolio-Milagros.git
+2. Abrir el archivo index.html en el navegador
